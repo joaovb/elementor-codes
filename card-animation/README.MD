@@ -1,5 +1,8 @@
 # Como utilizar o código CSS no Elementor?
 
+![Alt text](images/04.gif "Container no Elementor")
+
+
 - Crie um novo container, dentro desse container, coloque outro container, nesse segundo container coloque um bloco de texto (H2 e p).
 
 - Aplique a classe css `card` no primeiro container.
